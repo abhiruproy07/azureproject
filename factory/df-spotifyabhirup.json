@@ -1,0 +1,15 @@
+{
+	"name": "df-spotifyabhirup",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f1ec5066-2c6a-456f-ba6d-8f7775f3017b",
+		"tenantId": "6679fc49-7cc0-4812-9435-9717e2982113"
+	}
+}
