@@ -303,7 +303,8 @@
 						"activity": "IfIncrementalData",
 						"dependencyConditions": [
 							"Failed",
-							"Skipped"
+							"Skipped",
+							"Succeeded"
 						]
 					}
 				],
